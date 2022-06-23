@@ -1,3 +1,5 @@
+# Simple Barcode Scanner
+
 **Simple Barcode Scanner ** with `javascript` and `html`
 how to read barcodes using a USB barcode scanner device in JavaScript.
 **its easy !**
